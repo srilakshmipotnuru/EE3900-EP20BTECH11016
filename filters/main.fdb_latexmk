@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1664423669 "/home/srilakshmi/lssp/EE3900-EP20BTECH11016/filters/main.tex" "main.pdf" "main" 1664423673
+["pdflatex"] 1664423911 "/home/srilakshmi/lssp/EE3900-EP20BTECH11016/filters/main.tex" "main.pdf" "main" 1664423914
   "/etc/texmf/web2c/texmf.cnf" 1660198308 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/srilakshmi/lssp/EE3900-EP20BTECH11016/filters/main.tex" 1664423546 52986 7885611f685d3be5cbd98d9af7905ade ""
+  "/home/srilakshmi/lssp/EE3900-EP20BTECH11016/filters/main.tex" 1664423909 53140 be0f0b3658f370419ad4234a3d03bb53 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -139,6 +139,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1660198351 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1660198431 2800722 ea9507396c64e7fa59711b46174f0071 ""
   "figs/3.2.png" 1664423669 20753 ef2054b26fbc89a5210300f4a233ef68 ""
+  "figs/3.3.png" 1664423590 12472 2fd1fbbeb4bd50fb5bd02148dbb75be2 ""
   "figs/4.5.png" 1664126916 49266 b30653eb32d508a3ade636623fd8aa09 ""
   "figs/5.2.png" 1664127325 19917 53607414fc7513b4e823c2ac606fd2e4 ""
   "figs/5.4.png" 1664127460 20554 7895fac36406471cb24028c7e12a80c2 ""
@@ -156,9 +157,9 @@
   "figs/7.2.1.png" 1664129044 22714 1f4b1fc68fd562a28067d6592df5ec5c ""
   "figs/7.2.2.png" 1664129055 31538 f535da8bf365efe8be5773fbde62180b ""
   "figs/7.2.3.png" 1664129064 16317 3b7fbf7ecfe01f48cf55ba1450070f71 ""
-  "main.aux" 1664423672 7068 b6d5ac62ce6a11e1897543e17a060ac2 "pdflatex"
-  "main.out" 1664423672 836 1054b0346f3f8e3c6409f212c6abfd32 "pdflatex"
-  "main.tex" 1664423546 52986 7885611f685d3be5cbd98d9af7905ade ""
+  "main.aux" 1664423914 7272 f457f34a2611ffc0c663eab69de7863c "pdflatex"
+  "main.out" 1664423914 836 1054b0346f3f8e3c6409f212c6abfd32 "pdflatex"
+  "main.tex" 1664423909 53140 be0f0b3658f370419ad4234a3d03bb53 ""
   (generated)
   "main.aux"
   "main.log"
